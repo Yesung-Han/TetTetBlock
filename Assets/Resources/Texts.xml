@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<texts>
+		<index>0</index>
+		<menu>NewText</menu>
+		<kor>새로 만들기</kor>
+		<eng>Create New</eng>
+		<chi>중1</chi>
+	</texts>
+	<texts>
+		<index>1</index>
+		<menu>New_MapNameText</menu>
+		<kor>맵 이름</kor>
+		<eng>Name</eng>
+		<chi>중2</chi>
+	</texts>
+	<texts>
+		<index>2</index>
+		<menu>New_SizeNameText</menu>
+		<kor>맵 크기</kor>
+		<eng>Size</eng>
+		<chi>중3</chi>
+	</texts>
+	<texts>
+		<index>3</index>
+		<menu>New_Size_warn_Text</menu>
+		<kor>맵 크기는 10~50 사이의 자연수 를 입력해 주세요!</kor>
+		<eng>Size must be between 10 and 50. </eng>
+	</texts>
+	<texts>
+		<index>4</index>
+		<menu>LoadText</menu>
+		<kor>불러오기</kor>
+		<eng>Load Data</eng>
+	</texts>
+	<texts>
+		<index>5</index>
+		<menu>Load_SelectWarn_Text</menu>
+		<kor>맵을 선택해 주세요!</kor>
+		<eng>Please select a map!</eng>
+	</texts>
+	<texts>
+		<index>6</index>
+		<menu>Load_DeletWarn_Text</menu>
+		<kor>맵을 삭제 할까요?</kor>
+		<eng>Want to delete this map?</eng>
+	</texts>
+	<texts>
+		<index>7</index>
+		<menu>Menu_BGM_Text</menu>
+		<kor>배경음 On/Off</kor>
+		<eng>BGM On/Off</eng>
+	</texts>
+	<texts>
+		<index>8</index>
+		<menu>Menu_Recommend_Text</menu>
+		<kor>추천과 공유는 개발자에게 큰 도움이 됩니다. ^^</kor>
+		<eng>Recommendation and sharing 
+are great for developers. :)</eng>
+	</texts>
+	<texts>
+		<index>9</index>
+		<menu>Menu_Reset_Text</menu>
+		<kor>데이터 리셋</kor>
+		<eng>Data reset</eng>
+	</texts>
+	<texts>
+		<index>10</index>
+		<menu>Menu_GameOff_Text</menu>
+		<kor>게임종료</kor>
+		<eng>Quit Game</eng>
+	</texts>
+	<texts>
+		<index>11</index>
+		<menu>Menu_Reset_Warn_Text</menu>
+		<kor>&lt;color=#ea0000ff&gt;저장된 데이터가 모두 삭제 됩니다.&lt;/color&gt; 
+&lt;color=#000000ff&gt;삭제 하시겠습니까?&lt;/color&gt;</kor>
+		<eng>&lt;color=#ea0000ff&gt;All saved data will be deleted.&lt;/color&gt; 
+&lt;color=#000000ff&gt;Want to delete?&lt;/color&gt;</eng>
+	</texts>
+	<texts>
+		<index>12</index>
+		<menu>Menu_Reset_confirm_Text</menu>
+		<kor>저장된 데이터가 모두 
+삭제되었습니다.</kor>
+		<eng>All stored data
+Removed.</eng>
+	</texts>
+	<texts>
+		<index>13</index>
+		<menu>Menu_GameOff_Warn_Text</menu>
+		<kor>게임을 종료 할까요??</kor>
+		<eng>Quit the game?</eng>
+	</texts>
+	<texts>
+		<index>14</index>
+		<menu>Menu_GotoMain_Text</menu>
+		<kor>메인으로</kor>
+		<eng>Go to Main</eng>
+	</texts>
+	<texts>
+		<index>15</index>
+		<menu>Menu_BGM_Text</menu>
+		<kor>배경음 On/Off</kor>
+		<eng>BGM On/Off</eng>
+	</texts>
+	<texts>
+		<index>16</index>
+		<menu>Menu_Help_Text</menu>
+		<kor>도움말</kor>
+		<eng>Help</eng>
+	</texts>
+	<texts>
+		<index>17</index>
+		<menu>Menu_Save_Text</menu>
+		<kor>저장하기</kor>
+		<eng>Save</eng>
+	</texts>
+	<texts>
+		<index>18</index>
+		<menu>Menu_Load_Text</menu>
+		<kor>불러오기</kor>
+		<eng>Load</eng>
+	</texts>
+	<texts>
+		<index>19</index>
+		<menu>Menu_GameOff_Text</menu>
+		<kor>게임종료</kor>
+		<eng>Quit Game</eng>
+	</texts>
+	<texts>
+		<index>20</index>
+		<menu>SaveLoad_SelectWarn_Text</menu>
+		<kor>맵을 선택해 주세요!</kor>
+		<eng>Please 
+select a map!</eng>
+	</texts>
+	<texts>
+		<index>21</index>
+		<menu>SaveLoad_NowMapSelectWarn_Text</menu>
+		<kor>현재 열려있는 맵은
+삭제할 수 없습니다.</kor>
+		<eng>The currently open map
+You can not delete it.</eng>
+	</texts>
+	<texts>
+		<index>22</index>
+		<menu>SaveLoad_DeletWarn_Text</menu>
+		<kor>맵을 삭제 할까요?</kor>
+		<eng>Delete this map?</eng>
+	</texts>
+	<texts>
+		<index>23</index>
+		<menu>Save_SaveNew_Text</menu>
+		<kor>맵을 저장 할까요?</kor>
+		<eng>Save this map?</eng>
+	</texts>
+	<texts>
+		<index>24</index>
+		<menu>Save_SaveAppend_Text</menu>
+		<kor>맵을  덮어  씌울까요?</kor>
+		<eng>Append this map?</eng>
+	</texts>
+	<texts>
+		<index>25</index>
+		<menu>Save_SaveConfirm_Text</menu>
+		<kor>저장이 
+완료 되었습니다.</kor>
+		<eng>Saving 
+Complete.</eng>
+	</texts>
+	<texts>
+		<index>26</index>
+		<menu>CamerSetting_TrackingMode_Text</menu>
+		<kor>트래킹 모드
+On/Off</kor>
+		<eng>Tracking Mode
+On/Off</eng>
+	</texts>
+	<texts>
+		<index>27</index>
+		<menu>CamerSetting_ScreenShot_Text</menu>
+		<kor>스크린샷 
+공유 하기</kor>
+		<eng>Share
+Screenshot</eng>
+	</texts>
+	<texts>
+		<index>28</index>
+		<menu>CamerSetting_FocusHeight_Text</menu>
+		<kor>카메라
+상/하</kor>
+		<eng>Focus
+Up/Down</eng>
+	</texts>
+	<texts>
+		<index>29</index>
+		<menu>CamerSetting_Zoom_Text</menu>
+		<kor>Zoom
+In/Out</kor>
+		<eng>Zoom
+In/Out</eng>
+	</texts>
+	<texts>
+		<index>30</index>
+		<menu>GameOff_Warn_Text</menu>
+		<kor>게임을 종료 할까요??</kor>
+		<eng>Quit the game?</eng>
+	</texts>
+	<texts>
+		<index>31</index>
+		<menu>Language_Text</menu>
+		<kor>게임 언어</kor>
+		<eng>Language</eng>
+	</texts>
+</root>
